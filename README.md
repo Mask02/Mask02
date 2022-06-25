@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammad Shoaib Akbar(@Mask02)
+- 👋 Hi, I’m Muhammad Shoaib Akbar (@Mask02)
 - 👀 I’m interested in Modern Application , API Development and Cyber Scurity.
 - 🌱 I’m currently learning Modern Application and API Development.
 - 💞️ I’m looking to collaborate on Web Development.
