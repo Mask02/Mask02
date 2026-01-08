@@ -8,7 +8,7 @@
 <div align=center>
 
 
-## <picture><img src = "https://github.com/Mask02/Mask02/raw/main/images/about_me.gif" width = 50px></picture> **About me**
+<picture><img src = "https://github.com/Mask02/Mask02/raw/main/images/about_me.gif" width = 50px></picture> **About me**
   <p align=center >
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=006AFF&center=true&vCenter=true&width=435&lines=SOFTWARE+ENGINEER;TECHNOLOGY+ENTHUSIAST;OPEN+SOURCE+CONTRIBUTOR" alt="Typing SVG" />
   </p>
